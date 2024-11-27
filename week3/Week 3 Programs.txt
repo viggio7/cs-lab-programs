@@ -1,0 +1,33 @@
+﻿Programs on for, while and do-while loops 
+ 
+ 
+1. C program to print ODD numbers from 1 to N. 
+ 
+2. C program to print EVEN numbers from 1 to N. 
+ 
+3. C program to print all uppercase alphabets. 
+ 
+4. C program to print all lowercase alphabets. 
+ 
+
+ 
+
+6. C Program to find factorial of a number. 
+ 
+7. C program to print multiplication table of given N. 
+ 
+8. C program to find the length of a number  
+ 
+9. C program to print the nth Fibonacci number. Note: Fibonacci Series: 0, 1, 1, 2, 3, 5, 8, … 
+ 
+10. C program to find the reverse of a number. 
+ 
+11. C program to check whether a number is a palindrome or not. 
+ 
+12. C program to find sum of all digits of a given number. 
+ 
+13. C program to convert decimal number to binary number. 
+ 
+14. C program to convert binary number to decimal number 
+ 
+15. C program to find sum of first and last digit.
