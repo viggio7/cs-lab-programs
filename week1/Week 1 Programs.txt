@@ -1,0 +1,39 @@
+﻿Lab 1 Programs 
+ 
+
+1. Write a C program to perform all arithmetic operations. 
+ 
+2.  
+
+ 
+ 
+4. Write a program to calculate percentage of a student given the marks of 5 different subjects. 
+ 
+5. Write a program to swap two numbers 
+
+ 
+6. Write a C Program to Swap Two Numbers Without Using Third Variable. 
+ 
+7. 
+
+ 
+ 
+8.  
+ 
+9. Write a C Program to find Square Root of a Number. 
+ 
+10. Write a C Program to find cube of a number. 
+
+ 
+11. Write a program to calculate simple and compound interest. 
+
+ 
+12. Write a program to convert days into years. 
+
+ 
+
+14. Write a C Program to find Mechanical Energy of a particle using E = mgh+1/2 mv2. 
+m -> mass 
+g-> gravity 
+h -> height 
+v -> velocity
