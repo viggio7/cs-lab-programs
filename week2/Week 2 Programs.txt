@@ -1,0 +1,68 @@
+﻿Lab 2: Basic Programs & Programs on  if-else and nested if-else 
+ 
+
+ 
+1. Write a C Program to print greatest of three numbers. 
+ 
+
+ 
+ 
+3. Write a C Program to calculate electricity bill given the number of units as input. Assume any 
+values for sur charge and charge per unit. 
+ 
+4. Write a C Program to calculate salary of an employee given the basic salary. Assume values for  
+DA and HRA. (As discussed in class) 
+
+ 
+5. Write a C program to check if three numbers are equal or not. 
+ 
+input1: 3 3 3  Input2: 3 4 5 
+output1: Equal Output2: Not Equal 
+ 
+
+ 
+
+ 
+input1: 3 14 23  Input2: 3 3 3 
+output1: 23 Output2: 3 
+ 
+
+ 
+
+ 
+8. Write a C program to input sides of a triangle and check whether a triangle is equilateral, scalene 
+or isosceles triangle 
+ 
+input1: 30 30 30   Input2: 20 35 35 Input2: 20 30 40 
+output1: equilateral Output2: isosceles  Output2: scalene  
+ 
+9. Write a C program to input day number and print weekday 
+ 
+input1: 1  Input2: 7 
+output1: Monday Output2: Sunday 
+ 
+10. 
+
+ 
+ 
+input1: year=2018 month=2  Input2: year=2022 month=12 
+
+
+
+output1: 28 Output2: 31 
+ 
+11. Write a C program to find the next date of the given input date. The input is taken into 3 
+different variables d, m and y representing date, month and year. The sample input and outputs are 
+given below. If any invalid date is given as input, print “Invalid Input”.  
+ 
+ 
+Input: 10 12 2022  Input: 31 1 2022  Input: 28 2 2022 
+Output: 11 12 2022  Output: 1 2 2022  Output: 1 3 2022 
+Input: 28 2 2020 Input: 29 2 2020 Input: 31 11 2022 
+Output: 29 2 2020 Output: 1 3 2020 Output: Invalid Input 
+12. Write a C program to check the input character is an alphabet, digit or special character 
+ 
+
+ 
+ 
+14. Write a C program to check whether a character is uppercase or lowercase alphabet.
