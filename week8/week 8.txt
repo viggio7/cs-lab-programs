@@ -1,0 +1,20 @@
+﻿Programs on Files
+
+1. Write a C program to read data from keyboard, write it to a file called INPUT, again read the same data
+from input file and display it on the screen.
+
+2. A file named DATA contains a series of integer numbers. Write a C program to read these numbers and
+then write all ‘odd’ numbers to a file to be called ODD and all ‘even’ numbers to a file to be called EVEN.
+
+3. Write a C program to copy content of one file into another.
+
+4. Write a C program that compares two files and returns 0 if they are equal and 1 if not equal.
+
+5. Write a C program that appends one file at the end of another.
+
+6. Write a C program that reads a file containing integers and appends at its end the sum of all the integers.
+
+7. Write a C program that reads characters from a file and prints their ASCII numbers.
+
+8. Write a C program to reverse the first n characters in a file. The file name and the value of n are specified
+on the command line.

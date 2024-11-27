@@ -1,0 +1,46 @@
+﻿Programs on Pointers, Recusion, Structures, Unions & Dynamic Memory Allocation
+
+1. Write a C program to pass array to a function and find the average of given array elements.
+
+2. Write a C program to find the largest element in a given array by allocation memory dynamically.
+
+3. Write a C program to print string in reverse using pointers.
+
+4. Write a C program to append one array elements to the end of another array using DMA.
+
+5. Raj is very good at mathematics and he is working with a series s where the next term is the sum of
+previous three terms. Given the first three terms of the series, a, b and c respectively, but here he simply
+want to output the nth term of the series using recursion.
+The recursive method for calculating the nth term is given below.
+
+6. Define a structure customer to specify data of customer in a bank. The data to be
+stored is: Account number (integer), Name (character string having at most 50 characters), and Balance in
+account (integer).
+
+Assume data for all the 10 customers of the bank are stored in the structure array :
+struct customer bank[10];
+
+The function, transaction, is used to perform a customer request for withdrawal or deposit to the account.
+Every such request is represented by the following three quantities: Account number of the customer,
+request type (0 for deposit and 1 for withdrawal) and amount. The function prototype is as follows:
+
+int transaction ( int account_number, int request_type, int amount, struct customer bank[10])
+
+The transaction function returns 0 if the transaction fails and 1 otherwise. The transaction fails only when
+the account balance is less than the withdrawal amount requested. The array bank (defined above) is
+another input to the transaction function and is suitably updated after every request. In case of a failed
+transaction no change is made in the bank array.
+
+Write a main() function which populates the array bank with values for 5 customers. Also, the main()
+should take a withdrawal request from the user (i.e., read values for account number, amount), and call
+the transaction function, and thereby print if it is a valid transaction. If valid, it should print the balance
+after the withdrawal.
+
+7. Write a program to implement the concept of bit fields.
+
+8. Write a program to create a union for a student, read his name, marks and roll number. Calculate the
+percentage of 5 subject marks and print it.
+
+9. Write a C program to implement structure inside a structure. [ Read the values and print them]
+
+10. Write a C program to find the Greatest Common Divisor (GCD) of two numbers using recursion.
