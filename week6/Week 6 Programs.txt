@@ -1,0 +1,188 @@
+﻿Programs on Strings
+
+1. Write a C program to find the length of a given string without using string function “strlen”.
+
+2. Write a C program to copy one string into another without using inbuilt function “strcpy”
+
+3. Write a C program to concat two strings without using strncat function.
+
+4. Write a C program to convert a string from upper case to lower case without using inbuilt function.
+
+5. Write a C program to reverse a stringwithout using string functions.
+
+6. Write a C program to print the first occurrence of the character in the given string without using strchr.
+
+7. Write a C program to compare two strings and print whether they are equal or unequal.
+
+8. Write a C program to check whether the given string is palindrome or not.
+
+9. Write a C program to print the vowels in the given string.
+
+10. Write a C program to insert a new character in a given string at a given position.
+
+11. Write a C program to capitalize first letters of each word in a given string.
+
+12. Write a C program to find the most and least repeated characters in a given string.
+
+13. Write a C program to find the frequency of “the” word in a given lengthy string.
+
+14. Write a C program to cound the number of vowels, consonants, digits and white spaces in a string
+
+15. Write a C program to sort the characters in a string in lexicographical order (dictionary order)
+
+16. Write a C program to print the string after deleting the vowels in the string.
+
+17. Write a C program to cound number of words in a string.
+
+18. Write a C program to sort a given string in ascending order.
+
+19. A given string contains the bracket characters '(', ')', '{', '}', '<', ‘>', '[' and ']', Write a C programme to
+check the said string is valid or not. The input string will be valid when open brackets and closed brackets
+are same type of brackets
+
+20. Write a C program to sort the words in a given string.
+
+21. Write a C program to print the smallest and largest word in a given string.
+
+22. Write a C program to print the first capital letter in a given string.
+
+23. Write a C program to remove all repeated characters from a string.
+
+24. Write a C program to print the frequency of each character in a given string.
+
+
+
+25. Write a C program to remove white spaces from a given string.
+
+26. Write a C program to print the first non repeated character from the string.
+
+27. Write a C program to check if a given string is pangram or not.
+A pangram is a sentence containing every letter in the English Alphabet.
+
+Input: “The quick brown fox jumps over the lazy dog”
+Output: is a Pangram
+Explanation: Contains all the characters from ‘a’ to ‘z’
+
+28. Write a C program to check if two given Strings are Isomorphic to each other.
+Two strings str1 and str2 are called isomorphic if there is a one-to-one mapping possible for every
+character of str1 to every character of str2. And all occurrences of every character in ‘str1’ map to the
+same character in ‘str2’.
+
+Input: str1 = “aab”, str2 = “xxy”
+Output: True
+Explanation: ‘a’ is mapped to ‘x’ and ‘b’ is mapped to ‘y’.
+
+Input: str1 = “aab”, str2 = “xyz”
+Output: False
+Explanation: One occurrence of ‘a’ in str1 has ‘x’ in str2 and other occurrence of ‘a’ has ‘y’.
+
+29. Write a C program to check whether two Strings are anagram of each other
+An anagram of a string is another string that contains the same characters, only the order of characters can
+be different. For example, “abcd” and “dabc” are an anagram of each other.
+
+Input: str1 = “listen” str2 = “silent”
+Output: “Anagram”
+Explanation: All characters of “listen” and “silent” are the same.
+
+Input: str1 = “gram” str2 = “arm”
+Output: “Not Anagram”.
+
+30. Given a string sentence which consists of both uppercase & lowercase alphabets and words are
+separated by empty space characters. Write a program to return the length of the last word in the string. If
+string is empty return “-1”
+
+31. Sachin is a small boy who is fond of playing with strings. He also loves people who can show him some
+cool operations on strings. Sachin is very bored so he asks you to reverse a string that he likes. But as
+Sachin is a small boy so he sometimes gives you invalid string. A string is invalid if it contains numbers also.
+If string is invalid just print “invalid string” as output. Else print the reverse of that string.
+
+32. A programmer is given with a string and he is asked to check the ,Availability of smallest chunk of the
+character in the string .If the smallest chunk of character is available ,the programmer will return the index
+of the chunk , in other cases he will return the unavailable index . If the smallest chunk is found, print its
+index. Else print ‘Character not found’.
+
+33. A Machine is given two names as inputs, the machine should suggest the possibility of forming the
+second name from the first name .If the second name is possible it should indicate yes ,if not it should
+indicate no .
+
+
+
+34. A splitting machine is given a character array as an input , the splitting machine splits the character
+array in all possible methods to make individual strings
+Input :
+AXLE
+Output :
+A
+X
+L
+E
+AX
+XL
+LE
+AXL
+XLE
+AXLE
+
+35. There are two students who are in initial stage of writing words, so as a programmer you are
+requested to check the word written by them if the word contains alternate characters we need to return
+yes otherwise no ?
+Input1 :
+ABABAB
+Output1 :
+YES
+
+Input2 :
+XYZ
+Output2
+NO:
+
+36. Harish is designing a language processor which processes only alphabetical data. This alphabetical data
+is processed in a way that repetition of alphabets are not allowed, now your task is to design the code for
+alphabetical data processing.
+Input 1:
+Hai Hello C Program
+Output 1:
+Hai elo C Prgm.
+
+Input 2:
+Hello
+Output 2:
+Helo
+
+37. Vishwak the mathematics teacher asked to solve a book of expressions consisting of characters,
+operators, and brackets. But Vishwak wants to give simplified expressions by removing brackets from the
+expressions. Write a program to help Vishwak simplify an expression by removing brackets
+
+Input:
+x-(p+q)+(y-a)
+Output:
+x-p+q+y-a
+
+
+
+38. Aman, a software developer in a company. Presently he is working on a code for the company, but
+while running the program he gets an error.After analyzing the code ,he gets to know that there was an
+error in a particular section of the code where have to print the first occurrence of all the letters present in
+that order of a string given. So, he asks you for a code , where you get a string as input and you have to
+print the first occurrence of all the letters in that order only ,as you are his fellow mate.
+
+Input: aabacdbdd
+Output: abcd
+
+Input: school
+Output: Schol
+
+39. In the Byteland country a string "S" is said to super ascii string if and only if count of each character in
+the string is equal to its ascii value.
+In the Byteland country ascii code of 'a' is 1, 'b' is 2 ...'z' is 26.
+Your task is to find out whether the given string is a super ascii string or not.
+
+Input:
+bba
+scca
+
+Output:
+Yes
+No
+
+40. Write a C program to remove characters from first string which are present in second string.
