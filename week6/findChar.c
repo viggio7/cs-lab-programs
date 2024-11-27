@@ -8,9 +8,7 @@ int main()
 	for(i=0;str[i]!='\0';i++);
 	{
 		if(str[i]==t)
-		{
 			printf("%d",i);
-		}
 	}
 	return 0;
 }
